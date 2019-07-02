@@ -44,7 +44,7 @@ android {
 }
 ```
 
-2. The use of Firebase MLKit requires seting up Firebase project for your app. If you have not already added Firebase to your app, please follow the steps described in [getting started guide](https://firebase.google.com/docs/android/setup).
+2. The use of Firebase MLKit requires setting up Firebase project for your app. If you have not already added Firebase to your app, please follow the steps described in [getting started guide](https://firebase.google.com/docs/android/setup).
    In short, you would need to
 
 - Register your app in Firebase console.
